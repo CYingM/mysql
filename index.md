@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>2431</title>
+	<style type="text/css">
+		div{
+			color: pink;
+			font-size: 20px;
+			background: black;
+		}	
+		span{
+			background: black;
+			color: pink;
+			font-size: 20px;
+		}
+	</style>  
+</head>
 
-You can use the [editor on GitHub](https://github.com/CYingM/mysql/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+<b><i><u><s>
+<div>
+	<span>
+		<sup>www </sup> CYM <sub> com</sub>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<embed height="90" src="http://dl.stream.qqmusic.qq.com/C400002E2qJq0xKZfp.m4a?vkey=1B18AD251F98BD0942B1634957FA270838DF7758F74211FD9133DD66449566C80E30844E400170933AB20B622413B887325A91825FFF1F55&guid=4443554405&uin=106180215&fromtag=66" hidden="false" autostart="true">
+	</span>
+</div>
 
-### Markdown
+<div align="center">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1349290804,1314833745&fm=27&gp=0.jpg" width="25%" title="陈英明到此一游">
 
-```markdown
-Syntax highlighted code block
+	<form action="https://www.baidu.com/s">
+		<h2>2431搜索神器</h2>
+		<input type="text" name="wd" style="width:200px;height:35px"placeholder="输入你个墨客">
+		<input type="submit" value="搜索">
+	</form><br>
+	<form action="https://flv3.bn.netease.com/videolib3/1801/15/TgQIJ3286/SD/TgQIJ3286-mobile.mp4"><br>
 
-# Header 1
-## Header 2
-### Header 3
+		<h2>
+			极具教育意义<br>
+			极具人文特色<br>
+			仅会员可看
+		</h2>
+		<input type="submit" value="vipJQ视频"><br><br>
+	</form>
+	<h3>
+		© 2018 CYm所有 盗版必逗 ©
+	</h3><br>
+</div>
+</b></i></u></s>
+</body>
+</html>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CYingM/mysql/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
